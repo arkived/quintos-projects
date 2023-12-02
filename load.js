@@ -1,2 +1,2 @@
-QuintOS.user = 'your-username'; // put your github username!
-QuintOS.game = 'GuessTheNumber'; // the title of the game to load
+QuintOS.user = 'arkived'; // put your github username!
+QuintOS.game = 'Pong'; // the title of the game to load
